@@ -1,0 +1,92 @@
+body {
+    font-family: Sans-serif;
+    color: #333;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.teste{
+    width: 100px;
+}
+
+.erro {
+    color: #F44;
+}
+
+nav{
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+fieldset {
+    border: 3px double #333;
+    color: #000;
+    margin: 10px 0 0 0;
+}
+.cabecalho{
+    border: 3px double #333;
+    color: #000;
+    margin: 10px 0 0 0;
+    width: 200px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 0 0;
+}
+
+input[type=text], textarea {
+    width: 100%;
+    border: 1px solid #333;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+input[type=submit] {
+    float: right;
+    clear: both;
+    text-align: center;
+    width: 300px;
+}
+
+input[type=button] {
+    float: right;
+    clear: both;
+    text-align: center;
+    width: 300px;
+    margin-left: 70%;
+    margin-right: 30%;
+}
+
+button{
+    float: right;
+    clear: both;
+    text-align: center;
+    width: 300px;
+    margin-left: 70%;
+    margin-right: 30%;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    background-color: #EEE;
+    font-size: 18px;
+}
+
+table td {
+    border-bottom: 1px solid #333;
+    color: #000;
+}
